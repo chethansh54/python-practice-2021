@@ -106,3 +106,10 @@ elif email:
 else:
     print("You are not eligible to use this system.")
 
+#  one line if statements
+
+if 10 > 5: a = True
+
+print(f"a = {a}")
+
+
