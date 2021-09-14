@@ -1,6 +1,5 @@
 # squaring a number without and with lambda
 
-
 def squareIT(n):
     return n * n
 
